@@ -50,8 +50,6 @@ streamlit run Main.py
 
 3. Error handling ensures user-friendly feedback for invalid city names.
 
-   ![image](https://github.com/user-attachments/assets/90699a0a-2834-4ec9-ad72-268e38f8be50)
-
 ## Configuration
 
 * API_KEY in Backend.py must be set to a valid OpenWeatherMap API key.
